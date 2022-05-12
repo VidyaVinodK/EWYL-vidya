@@ -1,5 +1,5 @@
 # EWYL-vidya
-initial repository for ewyl
-VIDYA
-B.TECH ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
-20AD038
+initial repository for ewyl<br>
+VIDYA<br>
+B.TECH ARTIFICIAL INTELLIGENCE AND DATA SCIENCE<br>
+20AD038<br>
